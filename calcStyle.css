@@ -1,0 +1,33 @@
+.btns {
+    height: 80px;
+    font-size:x-large;
+    border: none;
+    border-radius: 7px;
+    width: 20%;
+    margin-left: 15px;
+}
+
+.calcstyle {
+    border: 2px solid black; 
+    border-radius: 10px;
+    margin-left: 370px; 
+    margin-top: 50px; 
+    width: 500px; 
+    height: 715px;
+    background-color: rgb(49, 81, 112);
+}
+
+.txtarea {
+    float: left;
+    margin-left: 20px;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.eqbtn {
+    margin-left: 20px;
+    height: 55px;
+    width: 70px;
+    font-size:x-large;
+    border-radius: 10px;
+}
